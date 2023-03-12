@@ -1,0 +1,29 @@
+_repo: Two-Colored-Women-with-the-American-Expeditionary-Forces_70223
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Hunton, Addie W.
+    gutenberg_agent_id: '55661'
+    url: http://www.gutenberg.org/2009/agents/55661
+  - agent_name: Johnson, Kathryn M.
+    gutenberg_agent_id: '55662'
+    url: http://www.gutenberg.org/2009/agents/55662
+description: ''
+gutenberg_issued: '2023-03-06'
+identifiers:
+  gutenberg: '70223'
+language: en
+pgterms:marc905: 20181216032034hunton
+pgterms:marc906: '1920'
+pgterms:marc907: US
+production_note: hekula03, Quentin Campbell, Thiers Halliwell, and the Online Distributed
+  Proofreading Team at https://www.pgdp.net (This book was produced from images made
+  available by the HathiTrust Digital Library.)
+publication_note: '  $aUnited States :$bBrooklyn Eagle Press, $c1920.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Two Colored Women with the American Expeditionary Forces
+url: http://www.gutenberg.org/ebooks/70223
