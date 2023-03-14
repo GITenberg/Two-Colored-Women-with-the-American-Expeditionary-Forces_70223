@@ -1,5 +1,8 @@
 _repo: Two-Colored-Women-with-the-American-Expeditionary-Forces_70223
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 70223-h/images/cover.jpg
 creator:
   authors:
   - agent_name: Hunton, Addie W.
@@ -9,6 +12,8 @@ creator:
     gutenberg_agent_id: '55662'
     url: http://www.gutenberg.org/2009/agents/55662
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70223#Two-Colored-Women-with-the-American-Expeditionary-Forces
 gutenberg_issued: '2023-03-06'
 identifiers:
   gutenberg: '70223'
